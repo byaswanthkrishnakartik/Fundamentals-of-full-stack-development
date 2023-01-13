@@ -1,0 +1,65 @@
+Front End Development
+--------------------------- 
+1. HTMl 
+2. CSS 
+3. Bootstrap 
+4. Javascript 
+
+HTML
+------------------------------
+ —HTML is Hyper Text Markup Language, which is responsible for
+developing websites .
+—Markup language
+— computer language that uses tags to define
+elements within a document.
+—HTML responsible for structure of web pages .
+—Elements are basics of HTML. Elements are represented as, we will
+be having opening tag, followed by content and then clsoing tag .
+<element>content</element>
+ex:
+for heading tag <hl> Heading </hl>
+for pargarapgh tag
+paragraph </p>
+—Some tag consists of only one tag, they don't need seperate
+closing tag.
+for example, the image and line break elements .
+ex: <img src=
+<br/>
+—you can observe these patterns: —
+1. if we have to place the content then we need both opening
+and closing tags. ex: heading tag
+2. if we just have to set tag attributes in this case src is
+tag attribute then we just need closing tag. ex: image tag
+3. if we don't need content and tag attributes then also
+closing tag is not required. ex: break tag
+— html file extension is . html. ex:
+Note : —
+—Open developer tool
+1. open any website in browser
+2. shortcut ctrl+shift+i
+about . html
+—> right click
+—> Inspect
+
+
+
+Environment Setup
+—You just need any browser to run HTML —
+firefox.
+Chrome Download link —
+It can be chrome, edge,
+https : / /www. google . com/chrome/@brand=CHBD&gclid=CjwKCAiAhKycBhAQEiwAgf19e
+tC1s0doiiCcgkIS9csi6raRYGuIfwrToZ4YZj gDzLBOTa—
+wRwS2mhoCngUQAvD ds
+—Code editors — Notepad, Notepad++, visual studio code...
+VS code download link —
+https : / / code . visual studio .
+Basic Structure of HTML
+< ! DOCTYPE html>
+INFORMATION ABOUT
+PAGE
+(META,
+LINKS,
+- HTML VERSION
+- ROOT Element
+TITLE)
